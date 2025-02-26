@@ -1,0 +1,9 @@
+/Users/blouse_man/Downloads/coding/invideo/frontend/src/calculator/target/wasm32-unknown-unknown/release/deps/libwasm_bindgen_futures-e48a4c2cb61c3bc6.rmeta: /Users/blouse_man/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.50/src/lib.rs /Users/blouse_man/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.50/src/queue.rs /Users/blouse_man/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.50/src/task/singlethread.rs
+
+/Users/blouse_man/Downloads/coding/invideo/frontend/src/calculator/target/wasm32-unknown-unknown/release/deps/libwasm_bindgen_futures-e48a4c2cb61c3bc6.rlib: /Users/blouse_man/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.50/src/lib.rs /Users/blouse_man/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.50/src/queue.rs /Users/blouse_man/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.50/src/task/singlethread.rs
+
+/Users/blouse_man/Downloads/coding/invideo/frontend/src/calculator/target/wasm32-unknown-unknown/release/deps/wasm_bindgen_futures-e48a4c2cb61c3bc6.d: /Users/blouse_man/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.50/src/lib.rs /Users/blouse_man/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.50/src/queue.rs /Users/blouse_man/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.50/src/task/singlethread.rs
+
+/Users/blouse_man/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.50/src/lib.rs:
+/Users/blouse_man/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.50/src/queue.rs:
+/Users/blouse_man/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.50/src/task/singlethread.rs:
