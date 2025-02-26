@@ -11,6 +11,10 @@ GEMINI_API_KEY=your_gemini_api_key_here
 SECRET_KEY_BASE=your_secret_key_base_here
 ```
 
+
+
+
+
 > **Important**: Never commit the `.env` file to version control. The repository includes a `.env.example` file as a template.
 
 ## Development Setup
